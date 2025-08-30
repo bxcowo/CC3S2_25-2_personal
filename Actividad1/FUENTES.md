@@ -1,0 +1,2 @@
+- TechTarget. (n.d.). Comparing Waterfall vs. Agile vs. DevOps methodologies. TechTarget. https://www.techtarget.com/searchsoftwarequality/opinion/DevOps-vs-waterfall-Can-they-coexist
+- BMC Software. (n.d.). Agile vs. Waterfall: What's The Difference? BMC Blogs. https://www.bmc.com/blogs/agile-vs-waterfall/
