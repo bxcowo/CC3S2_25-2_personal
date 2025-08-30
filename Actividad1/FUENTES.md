@@ -1,2 +1,4 @@
 - TechTarget. (n.d.). Comparing Waterfall vs. Agile vs. DevOps methodologies. TechTarget. https://www.techtarget.com/searchsoftwarequality/opinion/DevOps-vs-waterfall-Can-they-coexist
 - BMC Software. (n.d.). Agile vs. Waterfall: What's The Difference? BMC Blogs. https://www.bmc.com/blogs/agile-vs-waterfall/
+- Document360. (n.d.). Organizational Silos: Overview, How to Break Down & Its Impact. Document360. https://document360.com/blog/organizational-silos/
+- CodeStringers. (2025, February 21). Breaking Down Silos in Software Development with DevOps. CodeStringers. https://www.codestringers.com/insights/silos-in-software-development/
